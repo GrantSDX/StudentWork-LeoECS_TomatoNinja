@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: 3f7d70b4e2cb40747b69e6b5a2959bca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3867367584719656030
+    second: pixel_veggies1_0
+  - first:
+      213: -7128541113648880629
+    second: pixel_veggies1_1
+  - first:
+      213: 2273722164491742731
+    second: pixel_veggies1_2
+  - first:
+      213: -4055484224039053200
+    second: pixel_veggies1_3
+  - first:
+      213: 6449294030418149433
+    second: pixel_veggies1_4
+  - first:
+      213: 8301733092981596807
+    second: pixel_veggies1_5
+  - first:
+      213: 5017808508810651985
+    second: pixel_veggies1_6
+  - first:
+      213: -4586557742079037535
+    second: pixel_veggies1_7
+  - first:
+      213: 5726126979035153745
+    second: pixel_veggies1_8
+  - first:
+      213: 7029381926468225596
+    second: pixel_veggies1_9
+  - first:
+      213: 806818325293648731
+    second: pixel_veggies1_10
+  - first:
+      213: -7049006211385294607
+    second: pixel_veggies1_11
+  - first:
+      213: 8508012574181398766
+    second: pixel_veggies1_12
+  - first:
+      213: -758337500190713590
+    second: pixel_veggies1_13
+  - first:
+      213: 8369364900062124518
+    second: pixel_veggies1_14
+  - first:
+      213: 3473428763280814561
+    second: pixel_veggies1_15
+  - first:
+      213: 2609929551130670745
+    second: pixel_veggies1_16
+  - first:
+      213: 7535616440471426423
+    second: pixel_veggies1_17
+  - first:
+      213: -8794998491892906346
+    second: pixel_veggies1_18
+  - first:
+      213: -2723686064426817903
+    second: pixel_veggies1_19
+  - first:
+      213: -4506961394722796187
+    second: pixel_veggies1_20
+  - first:
+      213: 1040283141679426513
+    second: pixel_veggies1_21
+  - first:
+      213: -1779677785715829022
+    second: pixel_veggies1_22
+  - first:
+      213: -6777552593659278479
+    second: pixel_veggies1_23
+  - first:
+      213: 5307286362648089544
+    second: pixel_veggies1_24
+  - first:
+      213: 5711684061042174122
+    second: pixel_veggies1_25
+  - first:
+      213: -8741653987344290179
+    second: pixel_veggies1_26
+  - first:
+      213: -8665152281866077791
+    second: pixel_veggies1_27
+  - first:
+      213: 3142830858507090638
+    second: pixel_veggies1_28
+  - first:
+      213: 2983895111946158550
+    second: pixel_veggies1_29
+  - first:
+      213: 7765956554420471208
+    second: pixel_veggies1_30
+  - first:
+      213: -3058391262742488701
+    second: pixel_veggies1_31
+  - first:
+      213: 146954640270665674
+    second: pixel_veggies1_32
+  - first:
+      213: -2839704962935142739
+    second: pixel_veggies1_33
+  - first:
+      213: -3849266008507906509
+    second: pixel_veggies1_34
+  - first:
+      213: 460263480537734793
+    second: pixel_veggies1_35
+  - first:
+      213: 3629686035248309733
+    second: pixel_veggies1_36
+  - first:
+      213: 5219747411931517617
+    second: pixel_veggies1_37
+  - first:
+      213: -6405848659855673198
+    second: pixel_veggies1_38
+  - first:
+      213: -1370007652142111371
+    second: pixel_veggies1_39
+  - first:
+      213: 5588430467329623817
+    second: pixel_veggies1_40
+  - first:
+      213: 7923024966247599519
+    second: pixel_veggies1_41
+  - first:
+      213: -1746969951712151726
+    second: pixel_veggies1_42
+  - first:
+      213: 6590788757454903364
+    second: pixel_veggies1_43
+  - first:
+      213: 928707185328677352
+    second: pixel_veggies1_44
+  - first:
+      213: -2266782524821928236
+    second: pixel_veggies1_45
+  - first:
+      213: 9201580421046863739
+    second: pixel_veggies1_46
+  - first:
+      213: 1827904445991807299
+    second: pixel_veggies1_47
+  - first:
+      213: -4770920502554837102
+    second: pixel_veggies1_48
+  - first:
+      213: 7976859141979364619
+    second: pixel_veggies1_49
+  - first:
+      213: 4882516579747936712
+    second: pixel_veggies1_50
+  - first:
+      213: -5077028036310753472
+    second: pixel_veggies1_51
+  - first:
+      213: -1628862820817602433
+    second: pixel_veggies1_52
+  - first:
+      213: -7157118573870282353
+    second: pixel_veggies1_53
+  - first:
+      213: -2712092087648222055
+    second: pixel_veggies1_54
+  - first:
+      213: -5721332502070958826
+    second: pixel_veggies1_55
+  - first:
+      213: 6009800904058624528
+    second: pixel_veggies1_56
+  - first:
+      213: 3704804716082520416
+    second: pixel_veggies1_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_veggies1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54531ff356aba530800000000000000
+      internalID: 3867367584719656030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 158
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04e03230a5521d90800000000000000
+      internalID: -7128541113648880629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e667c0342ed8f10800000000000000
+      internalID: 2273722164491742731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 157
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07893f9c59608b7c0800000000000000
+      internalID: -4055484224039053200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9300f1730ce708950800000000000000
+      internalID: 6449294030418149433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 157
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e54b734ea53370800000000000000
+      internalID: 8301733092981596807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596796d046d2a540800000000000000
+      internalID: 5017808508810651985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 157
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afaf81c8064950c0800000000000000
+      internalID: -4586557742079037535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 156
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155cb2c262a477f40800000000000000
+      internalID: 5726126979035153745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 156
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a80bd6e916d8160800000000000000
+      internalID: 7029381926468225596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 155
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b476dfdf4623b00800000000000000
+      internalID: 806818325293648731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 156
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08bdea236ec2e90800000000000000
+      internalID: -7049006211385294607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee893acdb58821670800000000000000
+      internalID: 8508012574181398766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095649bf08d975f0800000000000000
+      internalID: -758337500190713590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 124
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e953d7a805f52470800000000000000
+      internalID: 8369364900062124518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13af3ae09143030800000000000000
+      internalID: 3473428763280814561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99630f74915583420800000000000000
+      internalID: 2609929551130670745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 124
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77594e92a33e39860800000000000000
+      internalID: 7535616440471426423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 124
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69680a23873e1f580800000000000000
+      internalID: -8794998491892906346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 124
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196682284f5833ad0800000000000000
+      internalID: -2723686064426817903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 125
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d062b8d7e0471c0800000000000000
+      internalID: -4506961394722796187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 126
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db21a57104df6e00800000000000000
+      internalID: 1040283141679426513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e611c7ab705d47e0800000000000000
+      internalID: -1779677785715829022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 128
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b496833db41f1a0800000000000000
+      internalID: -6777552593659278479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31aeed3d447a940800000000000000
+      internalID: 5307286362648089544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 92
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8eda7446af34f40800000000000000
+      internalID: 5711684061042174122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e67f683086fa680800000000000000
+      internalID: -8741653987344290179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f4bad8e13fb780800000000000000
+      internalID: -8665152281866077791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 91
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca737ea3049d9b20800000000000000
+      internalID: 3142830858507090638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 92
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d143928bcce86920800000000000000
+      internalID: 2983895111946158550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54957275836cb60800000000000000
+      internalID: 7765956554420471208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895310c9596e85d0800000000000000
+      internalID: -3058391262742488701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 92
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ad6b77761a0200800000000000000
+      internalID: 146954640270665674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64651b1675798d0800000000000000
+      internalID: -2839704962935142739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 93
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33686e4a5f8a49ac0800000000000000
+      internalID: -3849266008507906509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e598c623f236600800000000000000
+      internalID: 460263480537734793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5eb29d73c3f5230800000000000000
+      internalID: 3629686035248309733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25171ad94407840800000000000000
+      internalID: 5219747411931517617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f360659ad917a0800000000000000
+      internalID: -6405848659855673198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 60
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a08a8c41ccfce0800000000000000
+      internalID: -1370007652142111371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9070729b6e71e8d40800000000000000
+      internalID: 5588430467329623817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d4db39a3d34fd60800000000000000
+      internalID: 7923024966247599519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 61
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2577ae2b51481c7e0800000000000000
+      internalID: -1746969951712151726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 59
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448dcb5947f277b50800000000000000
+      internalID: 6590788757454903364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_44
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 59
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16ed9b34e63ec00800000000000000
+      internalID: 928707185328677352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 59
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d60de8bd45ca80e0800000000000000
+      internalID: -2266782524821928236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7700b014a492bf70800000000000000
+      internalID: 9201580421046863739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349e2b2b8650e5910800000000000000
+      internalID: 1827904445991807299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f379194194acdb0800000000000000
+      internalID: -4770920502554837102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dd10d502f73be60800000000000000
+      internalID: 7976859141979364619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b4d9e5fe22c340800000000000000
+      internalID: 4882516579747936712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f9ff476e5ca89b0800000000000000
+      internalID: -5077028036310753472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78735105ed1569e0800000000000000
+      internalID: -1628862820817602433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_53
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 27
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898c1db39eccac90800000000000000
+      internalID: -7157118573870282353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 28
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99484959d96bc5ad0800000000000000
+      internalID: -2712092087648222055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 29
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e92cf66eb990b0800000000000000
+      internalID: -5721332502070958826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 29
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5c39b41a176350800000000000000
+      internalID: 6009800904058624528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_veggies1_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 30
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0616a48a24c1a6330800000000000000
+      internalID: 3704804716082520416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1fd82d0fae8b7d844bb34618a1765e78
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

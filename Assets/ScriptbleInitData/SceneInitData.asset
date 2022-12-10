@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d9315b4c0a638c43a320b6eacfa23af, type: 3}
+  m_Name: SceneInitData
+  m_EditorClassIdentifier: 
+  kitchenPrefab: {fileID: 7829409405807604244, guid: 4f97883be4ffd39439ff8465eacb92b4, type: 3}
+  spawnedTomato: {fileID: 2927804825340074526, guid: 04748dd37812d6549ac58432437c6fb6, type: 3}
